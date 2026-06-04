@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+%F0%9F%A4%96;Building+SaaS+%26+Full-Stack+Apps+%F0%9F%9A%80;Researching+Hall+Effect+Thrusters+%E2%9A%A1;Competing+in+Kaggle+ML+Challenges+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Fine-tuning+LLMs+%F0%9F%A4%96;Founder+of+Eternity+Studio+%F0%9F%8F%A2;Building+SaaS+%26+Full-Stack+Apps+%F0%9F%9A%80;Researching+Hall+Effect+Thrusters+%E2%9A%A1;Competing+in+Kaggle+ML+Challenges+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 ---
@@ -41,12 +41,13 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 | Project | Description | Stack |
 |---|---|---|
-| 🎨 **AI Presentation Generator** | AI-powered slide deck creator *(under maintenance)* | Next.js, FastAPI, LLMs |
+| 🏢 **Eternity Studio** | Founder & owner of a multi-SaaS suite — building a collection of AI-powered productivity tools under one brand | Next.js, FastAPI, LLMs, Convex |
+| 🪄 **EternityPresentation** | AI presentation generator that creates polished slide decks from a prompt *(under active development)* | Next.js, FastAPI, LLMs |
+| 🎯 **EternityFocus** | Productivity & focus SaaS tool under the Eternity Studio umbrella | Next.js, Convex, React |
+| 🤖 **AI Tools Hive** | Curated AI tools directory at [aitoolshive.com](https://aitoolshive.com) — categorized listings with pricing & launch info | Next.js, React, SEO |
 | 📚 **Exam Preparation Website** | Full-featured platform for students to prepare for competitive exams | Next.js, Convex, React |
 | 🌌 **Web-based HET Simulation** | Browser-based Hall Effect Thruster simulation tool | React, Python, FastAPI |
-| 🤖 **AI Tools Hive** | Aggregator website cataloguing AI tools by category with pricing and launch info | Next.js, React |
 | 🎌 **Manga-to-Animation Pipeline** | Automated pipeline converting manga panels to animated sequences | Python, CV, ML |
-| 💼 **AI Tools Hive (Freelance)** | Maintaining [aitoolshive.com](https://aitoolshive.com) & its LinkedIn page — curating AI tool listings, pricing, and launches for a growing audience | Next.js, React, SEO |
 
 ---
 
@@ -91,23 +92,10 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 ## 📦 SaaS & Product Experience
 
+- 🏢 **Founder of Eternity Studio** — a growing suite of AI-powered SaaS tools, starting with **EternityPresentation** (AI slide deck generator) and **EternityFocus** (productivity tool)
 - Built and deployed **SaaS products** end-to-end with **Next.js + Convex** backends and **Vercel** hosting
 - Integrated **Razorpay** payment gateway for Indian market SaaS billing flows
 - Designed and shipped **AI-powered tools** as standalone web applications with real users
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishan12111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan12111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishan12111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
 
 ---
 
@@ -126,11 +114,32 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
   <a href="https://linkedin.com/in/kishan-s-4802962ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://kaggle.com/buzzshocker"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://huggingface.co/Buzzshocker"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
+  <a href="https://leetcode.com/Buzzshocker"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
   <a href="https://aitoolshive.com"><img src="https://img.shields.io/badge/AI%20Tools%20Hive-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kishan12111/Kishan12111/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kishan12111&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kishan12111&label=Profile+Views&color=00D4FF&style=flat" alt="profile views" />
+</p>
 
 <p align="center">
   <i>"Engineering the future — one model, one thruster, one commit at a time."</i>
