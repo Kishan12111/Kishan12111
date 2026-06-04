@@ -121,24 +121,26 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 ---
 
-## 🐍 Contribution Activity
+## ✨ Currently Building
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kishan12111/Kishan12111/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishan12111&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+```text
+🏢 Eternity Studio     ████████████░░░░░░░░   Shipping SaaS products
+🧠 LLM Research        ███████████░░░░░░░░░   SASD paper in progress  
+⚡ HET Simulation      ████████░░░░░░░░░░░░   Web-based thruster model
+🤖 Kaggle              ██████████████░░░░░░   Nemotron <2000 ranking
+🌐 AI Tools Hive       █████████████████░░░   Freelance maintenance
+```
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kishan12111&label=Profile+Views&color=00D4FF&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/kishan-s-4802962ba">
+    <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://aitoolshive.com">
+    <img src="https://img.shields.io/badge/Visit%20AI%20Tools%20Hive-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
