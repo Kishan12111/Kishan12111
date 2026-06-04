@@ -107,9 +107,10 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 ## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishan12111&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan12111&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
