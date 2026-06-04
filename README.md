@@ -46,6 +46,7 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 | 🌌 **Web-based HET Simulation** | Browser-based Hall Effect Thruster simulation tool | React, Python, FastAPI |
 | 🤖 **AI Tools Hive** | Aggregator website cataloguing AI tools by category with pricing and launch info | Next.js, React |
 | 🎌 **Manga-to-Animation Pipeline** | Automated pipeline converting manga panels to animated sequences | Python, CV, ML |
+| 💼 **AI Tools Hive (Freelance)** | Maintaining [aitoolshive.com](https://aitoolshive.com) & its LinkedIn page — curating AI tool listings, pricing, and launches for a growing audience | Next.js, React, SEO |
 
 ---
 
@@ -110,11 +111,22 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 ---
 
+## 💼 Freelance & Community Work
+
+| Role | Details |
+|---|---|
+| **Full Stack Maintainer** — [aitoolshive.com](https://aitoolshive.com) | Maintaining and updating a curated AI tools directory; managing listings, categories, pricing accuracy, and launch dates |
+| **LinkedIn Page Manager** — [AI Tools Hive](https://linkedin.com/company/aitoolshive) | Running the official LinkedIn presence — content strategy, post scheduling, audience growth |
+
+---
+
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/kishan-s-4802962ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://kaggle.com/buzzshocker"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://huggingface.co/Buzzshocker"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/></a>
+  <a href="https://aitoolshive.com"><img src="https://img.shields.io/badge/AI%20Tools%20Hive-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
