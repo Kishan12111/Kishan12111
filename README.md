@@ -99,8 +99,13 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kishan12111&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan12111&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kishan12111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishan12111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kishan12111&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
