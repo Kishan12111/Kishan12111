@@ -16,7 +16,7 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 - 🤖 Fine-tuning and researching **Large Language Models** (LLMs)
 - ⚡ Researching & simulating **Hall Effect Thrusters** for electric propulsion
-- 🏆 Competing in **Kaggle** challenges including the **NVIDIA Nemotron <2000** competition
+- 🏆 Competing in **Kaggle** challenges including the **NVIDIA Nemotron** competition
 - 🌐 Building production-grade **Full Stack SaaS applications**
 - 🎨 Creating **Generative AI tools** and AI-powered products
 
@@ -25,7 +25,7 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 ## 🔬 Research & Technical Work
 
 ### 🧠 LLM Fine-tuning & Research
-- Participated in the **NVIDIA Nemotron Kaggle competition** (top-tier reasoning challenge), fine-tuning a 30B MoE model across six problem categories including bit manipulation, algebra, and combinatorics
+- Participated in the **NVIDIA Nemotron Kaggle competition** , fine-tuning a 30B MoE model across six problem categories including bit manipulation, algebra, and combinatorics
 - Implemented **COT data generation** using Z3 constraint solving and GF(2) affine transforms for programmatic training data
 - Worked with **LoRA adapters**, **TIES merging**, and **GRPO** training pipelines; debugged MoE-specific issues including KL divergence explosions and gradient checkpointing bugs
 - Authored original research on **Semantic Adaptive Speculative Decoding (SASD)** — a novel inference optimization approach that dynamically selects draft models based on semantic context to improve token generation throughput in LLMs
@@ -85,7 +85,7 @@ I'm an **Electrical & Electronics Engineering** student with a deep passion for 
 
 ## 🏆 Competitions & Achievements
 
-- 🥇 **NVIDIA Nemotron Kaggle Competition (<2000)** — Fine-tuned 30B MoE models for multi-domain mathematical reasoning; implemented Z3-based COT data generation pipelines and advanced adapter merging strategies
+- 🥇 **NVIDIA Nemotron Kaggle Competition (2515/4900)** — Fine-tuned 30B MoE models for multi-domain mathematical reasoning; implemented Z3-based COT data generation pipelines and advanced adapter merging strategies
 - 🔬 Ongoing participation in ML research competitions focused on LLM reasoning and alignment
 
 ---
